@@ -13,7 +13,7 @@ Two descriptive relationships anchor the argument:
 - **Unequal development** — the largest cumulative CO2 emitters are also the largest recipients of migrants.
 - **Unequal vulnerabilities** — the countries most exposed to climate-related humanitarian risk have the weakest rights to movement.
 
-<img width="1077" height="659" alt="Conceptual_Framework" src="https://github.com/user-attachments/assets/8f95c60b-5b7b-4d52-928d-cfcdc4d40920" />
+<img width="538" height="329" alt="Conceptual_Framework" src="https://github.com/user-attachments/assets/8f95c60b-5b7b-4d52-928d-cfcdc4d40920" />
 
 
 ## Repository structure
@@ -23,7 +23,7 @@ CCMRI.R                          # Full analysis: cleaning, merging, plots, corr
 data/
   migration_co2.csv              # Migrant stock, cumulative CO2, INFORM indicators
   henley20_26.csv                # Henley Passport Index, 2020-2026
-  unhcr/persons_of_concern.csv   # UNHCR persons of concern
+  persons_of_concern.csv   # UNHCR persons of concern
 output/
   figure1.png                    # Saved figures
 ```
