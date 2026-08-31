@@ -23,7 +23,7 @@ CCMRI.R                          # Full analysis: cleaning, merging, plots, corr
 data/
   migration_co2.csv              # Migrant stock, cumulative CO2, INFORM indicators
   henley20_26.csv                # Henley Passport Index, 2020-2026
-  persons_of_concern.csv   # UNHCR persons of concern
+  persons_of_concern.csv         # UNHCR persons of concern
 output/
   figure1.png                    # Saved figures
 ```
@@ -34,7 +34,8 @@ GDP and GDP per capita are pulled directly from Our World in Data at runtime, so
 
 | Variable | Source |
 | --- | --- |
-| Migrant stock, cumulative CO2 emissions | Compiled from multiple sources (`migration_co2.csv`) |
+| Migrant stock | UNDESA |
+| Cumulative CO2 emissions | Our World in Data (Global Carbon Budget) |
 | GDP, GDP per capita | Our World in Data (World Bank) |
 | Refugees, asylum seekers, IDPs, stateless persons | UNHCR |
 | Visa-free access (`Henley_avg`) | Henley Passport Index, averaged over 2020-2026 |
